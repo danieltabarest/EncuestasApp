@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+    x:Class="AppEncuestas.Pages.EditContactPage"
+    Title="Edit Contact"
+    BindingContext="{Binding Main, Source={StaticResource Locator}}">
+    <ScrollView
+        BindingContext="{Binding EditContact}">
+        <StackLayout
+            Padding="8">
+            <Label
+                Text="First name">
+            </Label>
+            <Entry
+                Placeholder="Enter first name..."
+                Text="{Binding FirstName, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Last name">
+            </Label>
+            <Entry
+                Placeholder="Enter last name..."
+                Text="{Binding LastName, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Email address">
+            </Label>
+            <Entry
+                Placeholder="Enter email address..."
+                Text="{Binding EmailAddress, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Phone number">
+            </Label>
+            <Entry
+                Placeholder="Enter phone number..."
+                Text="{Binding PhoneNumber, Mode=TwoWay}">
+            </Entry>
+            <controls:CircleImage 
+                Source="{Binding ImageFullPath}" 
+                Aspect="AspectFill"
+                WidthRequest="300"
+                HeightRequest="300">
+            </controls:CircleImage>
+            <ActivityIndicator
+                IsRunning="{Binding IsRunning}">
+            </ActivityIndicator>
+            <StackLayout
+                Orientation="Horizontal">
+                <Button
+                    HorizontalOptions="FillAndExpand"
+                    Command="{Binding TakePictureCommand}"
+                    IsEnabled="{Binding IsEnabled, Mode=TwoWay}"
+                    BackgroundColor="Orange"
+                    TextColor="White"
+                    Text="Take Picture">
+                </Button>
+                <Button
+                    HorizontalOptions="FillAndExpand"
+                    Command="{Binding SaveContactCommand}"
+                    IsEnabled="{Binding IsEnabled, Mode=TwoWay}"
+                    BackgroundColor="Navy"
+                    TextColor="White"
+                    Text="Save">
+                </Button>
+                <Button
+                    HorizontalOptions="FillAndExpand"
+                    Command="{Binding DeleteContactCommand}"
+                    IsEnabled="{Binding IsEnabled, Mode=TwoWay}"
+                    BackgroundColor="Red"
+                    TextColor="White"
+                    Text="Delete">
+                </Button>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

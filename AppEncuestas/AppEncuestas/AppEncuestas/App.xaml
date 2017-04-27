@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Infrastructure="clr-namespace:AppEncuestas.Infrastructure;assembly=AppEncuestas"
+             x:Class="AppEncuestas.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- Locator -->
+            <Infrastructure:InstanceLocator x:Key="Locator"></Infrastructure:InstanceLocator>
+
+            <!-- Data Templates -->
+            <DataTemplate x:Key="PollsDataTemplate">
+                <ViewCell>
+                    <Grid Padding="8">
+                        <Grid.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding PollCommand}"/>
+                        </Grid.GestureRecognizers>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <StackLayout Grid.Column="1">
+                            <Label
+                                FontSize="Medium"
+                                FontAttributes="Bold"
+                                VerticalOptions="Center"
+                                Text="{Binding FullName}">
+                            </Label>
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding PhoneNumber, StringFormat='Phone number: {0}'}">
+                            </Label>
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding EmailAddress, StringFormat='Email address: {0}'}">
+                            </Label>
+
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding BathroomsNumber, StringFormat='Number bathrooms: {0}'}">
+                            </Label>
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding Independentworkers, StringFormat='Independent workers: {0}'}">
+                            </Label>
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding PollDate, StringFormat='Date poll : {0}'}">
+                            </Label>
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding NumberPeople, StringFormat='Number People : {0}'}">
+                            </Label>
+                            <Label
+                                VerticalOptions="Center"
+                                Text="{Binding RelativesAbroad, StringFormat='Relatives Abroad: {0}'}">
+                            </Label>
+                        </StackLayout>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

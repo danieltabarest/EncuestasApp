@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEncuestas.Pages.NewPollPage"
+    Title="New Poll"
+    BindingContext="{Binding Main, Source={StaticResource Locator}}">
+    <ScrollView
+        BindingContext="{Binding NewPoll}">
+        <StackLayout
+            Padding="8">
+            <Label
+                Text="First name">
+            </Label>
+            <Entry
+                Placeholder="Enter first name..."
+                Text="{Binding FirstName, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Last name">
+            </Label>
+            <Entry
+                Placeholder="Enter last name..."
+                Text="{Binding LastName, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Email address">
+            </Label>
+            <Entry
+                Placeholder="Enter email address..."
+                Text="{Binding EmailAddress, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Phone number">
+            </Label>
+            <Entry
+                Placeholder="Enter phone number..."
+                Text="{Binding PhoneNumber, Mode=TwoWay}">
+            </Entry>
+
+            <Label
+                Text="Number bathrooms">
+            </Label>
+            <Entry
+                Placeholder="Enter number bathrooms..."
+                Text="{Binding BathroomsNumber, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Independent workers">
+            </Label>
+            <Entry
+                Placeholder="Enter independent workers..."
+                Text="{Binding Independentworkers, Mode=TwoWay}">
+            </Entry>
+            <Label
+                Text="Date poll">
+            </Label>
+            <DatePicker Date="{Binding PollDate, Mode=TwoWay}" ></DatePicker>
+          
+            <Label
+                Text="People number">
+            </Label>
+            <Entry
+                Placeholder="Enter people number on the family..."
+                Text="{Binding NumberPeople, Mode=TwoWay}">
+            </Entry>
+
+            <Label
+                Text="Relatives Abroad">
+            </Label>
+            <Switch IsToggled="{Binding RelativesAbroad, Mode=TwoWay}" HorizontalOptions="StartAndExpand"/>
+
+            <ActivityIndicator
+                IsRunning="{Binding IsRunning}">
+            </ActivityIndicator>
+            <StackLayout
+                Orientation="Horizontal">
+                <Button
+                    HorizontalOptions="FillAndExpand"
+                    Command="{Binding NewPollCommand}"
+                    IsEnabled="{Binding IsEnabled, Mode=TwoWay}"
+                    BackgroundColor="Navy"
+                    TextColor="White"
+                    Text="New Poll">
+                </Button>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

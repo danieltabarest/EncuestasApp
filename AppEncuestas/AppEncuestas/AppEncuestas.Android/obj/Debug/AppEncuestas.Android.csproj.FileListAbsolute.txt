@@ -1,0 +1,235 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.apk
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android-Signed.apk
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\bin\AppEncuestas.Android.apk
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\values\styles.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable\add.png
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\R.cs.flag
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\uploadflags.txt
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\AppEncuestas.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\AppEncuestas.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll.config
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.apk
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android-Signed.apk
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\FormsViewGroup.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Newtonsoft.Json.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Extensions.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Primitives.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\FormsViewGroup.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Newtonsoft.Json.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Extensions.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.Primitives.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.csprojResolveAssemblyReference.cache
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.dll
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.pdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\bin\AppEncuestas.Android.apk
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable\icon.png
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\layout\tabbar.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\layout\toolbar.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\values\styles.xml
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\res\drawable\add.png
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\R.cs.flag
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\uploadflags.txt
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Java.Interop.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Mono.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\Mono.CSharp.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\mscorlib.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Core.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Net.Http.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Xml.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\System.Xml.Linq.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\AppEncuestas.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\AppEncuestas.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Core.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Debug\AppEncuestas.Android.dll.mdb
+E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\bin\Debug\AppEncuestas.Android.dll.mdb
