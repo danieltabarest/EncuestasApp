@@ -81,9 +81,43 @@ E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppE
 E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.pdb
 E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.dll.mdb
 E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.dll.mdb
-E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.dll.mdb
-E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.dll.mdb
-E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.dll.mdb
-E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.dll.mdb
-E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.dll.mdb
-E:\Daniel\Programación Distribuidas\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.dll.mdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.dll.config
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\AppEncuestas.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\System.Net.Http.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.csproj.App.config
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.App.xaml.g.cs
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.Pages.PollPage.xaml.g.cs
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.Pages.EditPollPage.xaml.g.cs
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.Pages.NewPollPage.xaml.g.cs
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.dll
+C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas\obj\Debug\AppEncuestas.pdb
