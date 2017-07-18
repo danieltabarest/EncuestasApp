@@ -2,6 +2,6 @@
 <Devices>
   <Device id="ZY223PLL3S">
     <ResultingAbi>armeabi-v7a</ResultingAbi>
-    <SdkVersion>23</SdkVersion>
+    <SdkVersion>24</SdkVersion>
   </Device>
 </Devices>

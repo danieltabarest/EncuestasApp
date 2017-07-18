@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\GalaSoft.MvvmLight.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\ImageCircle.Forms.Plugin.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\GalaSoft.MvvmLight.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\ImageCircle.Forms.Plugin.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\GalaSoft.MvvmLight.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\ImageCircle.Forms.Plugin.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Source\Repos\EncuestasApp\AppEncuestas\AppEncuestas\AppEncuestas.Android\obj\Release\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

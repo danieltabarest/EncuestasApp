@@ -3,6 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>Motorola Moto G %284%29</SelectedDevice>
     <DefaultDevice>7" Lollipop %285.1.1%29 XHDPI Tablet</DefaultDevice>
-    <ProjectView>ShowAllFiles</ProjectView>
+    <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
 </Project>
